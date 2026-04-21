@@ -15,7 +15,12 @@ Managing subscriptions can get messy — from OTT platforms to software tools. T
 * ⚠️ Identify unused subscriptions
 
 ---
+## dashboard
+<img width="1573" height="886" alt="image" src="https://github.com/user-attachments/assets/6f0ba7cf-2abd-4dbb-a58f-e06369908c11" /> 
+<img width="1570" height="881" alt="image" src="https://github.com/user-attachments/assets/8176d9a3-cb64-4806-b4a2-ac75c1865266" /> 
+<img width="1561" height="885" alt="image" src="https://github.com/user-attachments/assets/207a1dc3-8edc-46af-92eb-e7d15f8199d7" />
 
+---
 ## ✨ Features
 
 * 🔑 **Secure Authentication**
